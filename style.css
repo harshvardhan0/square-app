@@ -1,0 +1,21 @@
+.f{
+    
+    color: rgb(9, 255, 0);
+    background-color: chocolate;
+    box-shadow: 5px 5px 10px cyan;
+    width: 500px;
+    border-radius: 5px;
+    text-align: center;
+    bottom: 0px;
+    margin-left: 550px;
+    position: fixed;
+}
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 10px violet;
+}
+canvas{
+    box-shadow: 5px 5px 10px cyan;
+}
